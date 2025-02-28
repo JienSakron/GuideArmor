@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "guidearmor:item/golden_footmen_boots"
+  }
+}
